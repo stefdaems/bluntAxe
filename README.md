@@ -1,5 +1,7 @@
 # bluntAxe
 
+Probably the worst tool in the world
+
 ## Opstarten client
 npm run start
 
