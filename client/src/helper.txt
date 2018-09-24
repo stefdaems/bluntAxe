@@ -1,0 +1,27 @@
+possible values
+---------------
+
+EthernetStats
+VMStat
+GraphicsMemoryUsage
+TunerReport
+    TunerReport.frequency
+                	.index
+                	.locked
+                	.signalLevel
+                	.erroreds
+
+TemperatureReport
+UsageCollectorReport
+MemoryUsage
+WiFiStats
+UbiFlashHealthReport
+NetConfiguration
+ErrorReport
+TopProcesses
+HeartBeat
+FSReport
+NagraReport
+SdCardHealthReport
+BCMReport
+ConfigReport
